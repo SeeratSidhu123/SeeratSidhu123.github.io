@@ -1,0 +1,11 @@
+body{
+background-colour: pink;
+}
+div{
+background-color: blue;
+}
+img{
+border-radius: 200px;
+border-style: solid; (dashed, dotted, double, none, hidden, groove)
+border-width: 8px;
+border-color: purple;}
